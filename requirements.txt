@@ -1,0 +1,15 @@
+ultralytics==8.3.214
+torch==2.9.0
+torchvision==0.24.0
+opencv-python==4.12.0.88
+Pillow==11.3.0
+numpy==2.2.6
+pandas==2.3.3
+plotly==6.3.1
+folium==0.20.0
+streamlit==1.50.0
+gradio==3.48.1
+geopy==2.3.0
+requests==2.32.5
+huggingface-hub==0.35.3
+
